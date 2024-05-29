@@ -1,5 +1,6 @@
 notaAlta = 0.0
 notaBaja = 0.0
+print("Se agrega linea nuevamente")
 try:
     tipoPerfil = 0
     print("Bienvenido a la Escuela")
